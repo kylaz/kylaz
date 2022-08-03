@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kylaz/Muhammad Rizky Lazuardi
-- 👀 I’m interested in Software Engineer
+- 👀 I’m interested in Web Programming or web development
 
 
 <!-- - 🌱 I’m currently learning Javascript, NodeJS, ReactJS, Laravel and etc -->
