@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Programming
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylaz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- - 🌱 I’m currently learning Javascript, NodeJS, ReactJS, Laravel and etc -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
