@@ -4,7 +4,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="center">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=kylaz" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=kylaz&show_icons=true" />
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylaz&layout=compact" />
 </p>
 
