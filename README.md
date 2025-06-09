@@ -18,7 +18,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kylaz&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://komarev.com/ghpvc/?username=kylaz&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -31,6 +30,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=kylaz&color=blue" alt="Profile Views" />
 
 ---
 
