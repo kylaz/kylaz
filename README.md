@@ -14,15 +14,6 @@
 
 ---
 
-## 📊 Statistik GitHub Saya
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kylaz&show_icons=true&theme=nord" alt="Statistik GitHub Kylaz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylaz&layout=compact&theme=nord" alt="Bahasa Populer Kylaz" />
-</p>
-
----
-
 ## 🔥 Aktivitas & Metrik Lainnya
 
 <p align="center">
