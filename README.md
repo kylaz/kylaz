@@ -28,6 +28,6 @@
 - 💞️ Saya terbuka untuk kolaborasi dalam proyek-proyek menarik yang berfokus pada pengembangan web. Jika ada ide atau proyek yang ingin didiskusikan, jangan ragu untuk menghubungi saya!
 - 📫 Kamu bisa menghubungi saya melalui:
     -   **GitHub:** Kirimkan pesan langsung melalui profil ini.
-    -   **Email:** [your.email@example.com](mailto:rizkylz1110@gmail.com) (Ganti dengan alamat email kamu yang sebenarnya!)
+    -   **Email:** [rizkylz1110@gmail.com](mailto:rizkylz1110@gmail.com)
 
 ---
